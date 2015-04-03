@@ -1,0 +1,2 @@
+# MFCServerSocket
+Test MFC socket
